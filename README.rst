@@ -1,7 +1,7 @@
 mittun-api
 ==========
 
-mittun-api is a REST API that implements the backend required to manage conference.
+mittun-api is a REST API that implements the backend required to manage conferences with mittun.
 
 This API is used by the mittun project and its mittun's core.
 
