@@ -8,14 +8,21 @@ This API is used by the mittun project and its mittun's core.
 Contribute
 ==========
 
-Clone the github repository::
+Clone the github repository
+
+.. highlight:: bash
+
+::
 
     $ git clone https://github.com/flaviamissi/mittun-api.git
 
 Bootstrap your environment
 --------------------------
 
+.. highlight:: bash
+
 ::
+
     $ cd $GOPATH/src/github.com/flaviamissi/mittun-api
     $ make && make install
 
@@ -29,5 +36,8 @@ Running tests
 
 Inside the project root, use the Makefile for running tests:
 
+.. highlight:: bash
+
 ::
+
     $ make test
